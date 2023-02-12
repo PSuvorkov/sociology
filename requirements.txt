@@ -1,0 +1,4 @@
+pandas==1.4.2
+plotly==5.3.1
+pyreadstat==1.2.0
+
