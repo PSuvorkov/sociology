@@ -1,7 +1,12 @@
 # socilology
 Питончик для курса Социология города в HSE
 
-Как запускать:
+Как запускать в Колабе:
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/descriptive_statistics.ipynb)
+
+
+Как запускать на своём компьютере:
 
 1. Склонировать репозиторий через git clone или через зелёную кнопку Code > Download ZIP
 

@@ -1,4 +1,4 @@
 pandas==1.4.2
-plotly==5.3.1
+plotly==5.5.0
 pyreadstat==1.2.0
 
