@@ -68,3 +68,4 @@ pip install -r requirements.txt
 ```
 
 8. Ура, ноутбук должен запускаться. Файл 'IND_KOUZH_2018.sav' (это файл в формате SPSS от Росстата) пришлем отдельно. Источник данных: https://gks.ru/free_doc/new_site/KOUZ18/index.html . Его нужно положить в одну папку с ноутбуком
+
