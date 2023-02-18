@@ -5,6 +5,7 @@
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/descriptive_statistics.ipynb)
 
+Чтобы запустить всё, нажать Runtime > Run all
 
 Как запускать на своём компьютере:
 
