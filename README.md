@@ -3,7 +3,9 @@
 
 Как запускать в Колабе:
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/descriptive_statistics.ipynb)
+Тема 4: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/descriptive_statistics.ipynb)
+
+Тема 5: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/gini.ipynb)
 
 Чтобы запустить всё, нажать Runtime > Run all
 
