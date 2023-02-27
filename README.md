@@ -7,6 +7,8 @@
 
 Тема 5: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/gini.ipynb)
 
+Частоты и частости: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/frequencies.ipynb)
+
 Чтобы запустить всё, нажать Runtime > Run all
 
 Как запускать на своём компьютере:
