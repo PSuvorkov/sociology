@@ -9,6 +9,8 @@
 
 Частоты и частости: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/frequencies.ipynb)
 
+Тема 6 (Хи-квадрат): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/chi_square.ipynb)
+
 Чтобы запустить всё, нажать Runtime > Run all
 
 Как запускать на своём компьютере:
