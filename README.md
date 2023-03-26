@@ -2,9 +2,11 @@ Python для курса Социология города в HSE
 
 Как запускать в Колабе:
 
-Тема 4 (данные КОУЖ, описательные статистики): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/descriptive_statistics.ipynb)
+Тема 4 (данные КОУЖ, описательные статистики по доходам): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/descriptive_statistics.ipynb)
 
-Тема 4 (данные БДМО, базисный и цепной темп роста)[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/bdmo.ipynb)
+Тема 4 (данные КОУЖ, описательные статистики к ДЗ): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/topic_4_kouzh.ipynb)
+
+Тема 4 (данные БДМО, базисный и цепной темп роста): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/bdmo.ipynb)
 
 Тема 5 (данные ЕМИСС, коэффициент Джини): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/gini.ipynb)
 
