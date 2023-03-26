@@ -4,7 +4,7 @@ Python для курса Социология города в HSE
 
 Тема 4 (описательные статистики): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/descriptive_statistics.ipynb)
 
-Коэффициент Джини: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/gini.ipynb)
+Тема 5 (Коэффициент Джини): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/gini.ipynb)
 
 Частоты и частости: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/frequencies.ipynb)
 
