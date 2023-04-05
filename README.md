@@ -16,6 +16,8 @@ Python для курса Социология города в HSE
 
 Тема 7 (данные КОУЖ, описательные статистики): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_7_kouzh.ipynb)
 
+Тема 10 (данные КОУЖ, описательные статистики): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_10_kouzh.ipynb)
+
 Чтобы запустить всё, нажать Runtime > Run all
 
 Как запускать на своём компьютере:
