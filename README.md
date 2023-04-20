@@ -2,6 +2,8 @@ Python для курса Социология города в HSE
 
 Как запускать в Колабе:
 
+КОУЖ для 4 курса: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/4_kurs/descriptive_statistics.ipynb)
+
 Тема 4 (данные КОУЖ, описательные статистики по доходам): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/descriptive_statistics.ipynb)
 
 Тема 4 (данные КОУЖ, описательные статистики к ДЗ): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_4_kouzh.ipynb)
@@ -24,7 +26,7 @@ Python для курса Социология города в HSE
 
 Тема 14 (данные КОУЖ, описательные статистики): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_14_kouzh.ipynb)
 
-Чтобы запустить всё, нажать Runtime > Run all
+Чтобы запустить всё, нажать Runtime (Среда выполнения) > Run all (Запустить всё)
 
 Как запускать на своём компьютере:
 
@@ -91,6 +93,4 @@ https://anbasile.github.io/posts/2017-06-25-jupyter-venv/
 ```
 pip install -r requirements.txt
 ```
-
-8. Ура, ноутбук должен запускаться. Файл 'IND_KOUZH_2018.sav' (это файл в формате SPSS от Росстата) пришлем отдельно. Источник данных: https://gks.ru/free_doc/new_site/KOUZ18/index.html . Его нужно положить в одну папку с ноутбуком
 
