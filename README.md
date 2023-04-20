@@ -2,7 +2,7 @@ Python для курса Социология города в HSE
 
 Как запускать в Колабе:
 
-КОУЖ для 4 курса: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/4_kurs/descriptive_statistics.ipynb)
+КОУЖ для 4 курса: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/4_kurs/4_kurs_kouzh.ipynb)
 
 Тема 4 (данные КОУЖ, описательные статистики по доходам): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/descriptive_statistics.ipynb)
 
