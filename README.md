@@ -4,9 +4,9 @@ Python для курса Социология города в HSE
 
 КОУЖ для 4 курса: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/4_kurs/4_kurs_kouzh.ipynb)
 
-Контрольный блок 2
-
 Тема 4 (данные КОУЖ, описательные статистики по доходам): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/descriptive_statistics.ipynb)
+
+Контрольный блок 2
 
 Тема 4 (данные КОУЖ, описательные статистики к ДЗ): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_4_kouzh.ipynb)
 
