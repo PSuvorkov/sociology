@@ -2,8 +2,6 @@
 
 КОУЖ для 4 курса: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/4_kurs/4_kurs_kouzh.ipynb)
 
-Тема 4 (данные КОУЖ, описательные статистики по доходам): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/descriptive_statistics.ipynb)
-
 Чтобы запустить всё, нажать Runtime (Среда выполнения) > Run all (Запустить всё)
 
 ---------------------------------------------------------------------------------------------
@@ -15,8 +13,6 @@
 Тема 4 (данные БДМО, базисный и цепной темп роста): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/bdmo.ipynb)
 
 Тема 5 (данные ЕМИСС, коэффициент Джини): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/gini.ipynb)
-
-Тема 6 (данные КОУЖ, частоты и частости): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/frequencies.ipynb)
 
 Тема 6 (Данные КОУЖ, Хи-квадрат): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/chi_square.ipynb)
 
@@ -44,6 +40,12 @@
 Тема 14 (данные КОУЖ, описательные статистики): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_14_kouzh.ipynb)
 
 ------------------------------------------------------------------------------------------------
+
+### Воспроизвести таблицы и графики из презентаций (не входит в ДЗ)
+
+Тема 4 (данные КОУЖ, описательные статистики по доходам): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/descriptive_statistics.ipynb)
+
+Тема 6 (данные КОУЖ, частоты и частости): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/frequencies.ipynb)
 
 ## Как запускать на своём компьютере:
 
