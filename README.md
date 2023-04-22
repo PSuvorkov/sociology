@@ -24,6 +24,8 @@ Python для курса Социология города в HSE
 
 Тема 10 (данные опроса использования суточного фонда времени, описательные статистики): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_10_usage_of_time.ipynb)
 
+Тема 11 (данные опроса использования суточного фонда времени, описательные статистики): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_11_usage_of_time.ipynb)
+
 Тема 11 (данные КОУЖ, описательные статистики): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_11_kouzh.ipynb)
 
 Тема 12 (данные КОУЖ, описательные статистики): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_12_kouzh.ipynb)
