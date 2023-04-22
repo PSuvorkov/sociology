@@ -6,6 +6,8 @@ Python для курса Социология города в HSE
 
 Тема 4 (данные КОУЖ, описательные статистики по доходам): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/descriptive_statistics.ipynb)
 
+---------------------------------------------------------------------------------------------
+
 Контрольный блок 2
 
 Тема 4 (данные КОУЖ, описательные статистики к ДЗ): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_4_kouzh.ipynb)
@@ -38,6 +40,8 @@ Python для курса Социология города в HSE
 Тема 12 (данные опроса использования суточного фонда времени, описательные статистики): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_12_usage_of_time.ipynb)
 
 Тема 14 (данные КОУЖ, описательные статистики): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/topic_14_kouzh.ipynb)
+
+------------------------------------------------------------------------------------------------
 
 Чтобы запустить всё, нажать Runtime (Среда выполнения) > Run all (Запустить всё)
 
