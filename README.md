@@ -1,5 +1,9 @@
 ## Как запускать в Колабе:
 
+### 4 курс
+
+Конвертировать *.sav (формат SPSS) в csv [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/4_kurs/sav2csv.ipynb)
+
 КОУЖ для 4 курса: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PSuvorkov/sociology/blob/master/notebooks/4_kurs/4_kurs_kouzh.ipynb)
 
 Чтобы запустить всё, нажать Runtime (Среда выполнения) > Run all (Запустить всё)
